@@ -25,7 +25,7 @@ SECRET_KEY = 'dhz041l$8_x^6eurr6s_d6h*5p7a!7p8)96vflpzl31^ttu)$='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
